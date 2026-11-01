@@ -60,7 +60,7 @@ This project demonstrates core full-stack web development fundamentals:
 | **Build Tool** | [Vite 8](https://vite.dev/) | Fast development server & bundler |
 | **Routing** | [React Router DOM v7](https://reactrouter.com/) | Client-side page navigation |
 | **HTTP Client** | [Axios](https://axios-http.com/) | API communication with backend |
-| **Styling** | Plain CSS (`index.css`) | Clean, accessible light shade styles |
+| **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) | Apple iOS-inspired design system |
 | **Backend** | [Node.js](https://nodejs.org/) & [Express 5](https://expressjs.com/) | REST API server |
 | **Middleware** | [CORS](https://www.npmjs.com/package/cors) | Cross-Origin Resource Sharing |
 
